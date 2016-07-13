@@ -14,8 +14,8 @@ was a useful tool I built in 2014.
 + Modifying file extensions
 + File name Caseconversion capabailities
 
-## Install [![Download Simple File Renamer](https://img.shields.io/sourceforge/dt/simplefilerenamer.svg)](https://sourceforge.net/projects/simplefilerenamer/files/latest/download)
-For an installer check the <a href="https://sourceforge.net/projects/simplefilerenamer/">source forge version
+## Install 
+Check the <a href="https://sourceforge.net/projects/simplefilerenamer/">source forge page </a> or download the latest release: [![Download Simple File Renamer](https://img.shields.io/sourceforge/dt/simplefilerenamer.svg)](https://sourceforge.net/projects/simplefilerenamer/files/latest/download)
 
 ## Screenshots
 <img src="https://github.com/ezzak/Simple-File-Renamer/blob/master/Screenshots/1.png"/> <br/>
