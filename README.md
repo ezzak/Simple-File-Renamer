@@ -1,7 +1,7 @@
 # Simple-File-Renamer
 Simple File Renamer is a simple file renaming tool capable of renaming multiple files in 
-several modes including features that help insert and delete text into filenames. Simple File Renamer 
-was a useful tool I built in 2014.
+several modes including features that help insert and delete text into filenames. It was a project
+I build in 2014 and still update sometimes.
 
 ## Features
 + Rename files using old/new lists of names
